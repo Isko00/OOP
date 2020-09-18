@@ -1,3 +1,5 @@
+package oop.lab1;
+
 import java.util.Scanner;
 import java.util.Random;
 

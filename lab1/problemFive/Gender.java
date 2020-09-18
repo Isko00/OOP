@@ -1,4 +1,4 @@
-package problemFive;
+package oop.lab1.problemFive;
 
 public enum Gender {
 	B("Boy"),

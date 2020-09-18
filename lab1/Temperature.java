@@ -1,8 +1,6 @@
-class TemperatureConstructionException extends Exception {
-    public String toString() {
-        return "Check your construction data!";
-    }
-}
+package oop.lab1;
+
+import oop.lab1.*;
 
 public class Temperature {
     private double value;
