@@ -3,7 +3,7 @@ package oop.practice2;
 public class Course {
     private final String name, description;
     private final String[] prerequisites;
-    private final int numberOfCredits;
+    private int numberOfCredits;
 
     public Course() {
         name = "";
